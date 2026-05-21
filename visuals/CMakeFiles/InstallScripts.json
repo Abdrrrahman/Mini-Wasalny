@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/media/null/Common1/Projects/DS-Project-Graphs/visuals/cmake_install.cmake",
+		"/media/null/Common1/Projects/DS-Project-Graphs/visuals/raylib/cmake_install.cmake",
+		"/media/null/Common1/Projects/DS-Project-Graphs/visuals/raylib/raylib/cmake_install.cmake",
+		"/media/null/Common1/Projects/DS-Project-Graphs/visuals/raylib/raylib/external/glfw/cmake_install.cmake",
+		"/media/null/Common1/Projects/DS-Project-Graphs/visuals/raylib/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
