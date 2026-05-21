@@ -1,0 +1,10 @@
+# Ignore CMake build directories
+/visuals/CMakeFiles/
+/visuals/build/
+visuals/CMakeCache.txt
+visuals/cmake_install.cmake
+visuals/Makefile
+
+# Ignore any global build directories if you use them
+build/
+CMakeFiles/
